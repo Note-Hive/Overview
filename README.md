@@ -7,3 +7,12 @@
 > A membership driven initiative to bring together great journalists, copywriters, authors who collaborate on outstanding publications.
 >
 > Note Hive is built and maintained using swarm intelligence in collaboration with <a href="https://instarlab.org" target="_blank">INSTAR Lab Inc</a> for research &amp; analysis and is powered by the community of the <a href="https://taolearning.org" target="_blank">Tao Learning Institute</a>.
+
+---
+
+## Contributing
+> We welcome Pull Requests from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. Afterwards &amp; when available, we will provide compensation for substantial contributions to our projects. 
+
+### Step 1
+
+- **Check Available Issues**
