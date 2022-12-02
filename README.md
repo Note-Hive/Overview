@@ -21,5 +21,16 @@
       <a href="https://github.com/Note-Hive/Overview/issues" target="_blank"> Overview </a>
       
       <a href="https://github.com/Note-Hive/Silk-Corp-Guide/issues" target="_blank"> Silk Corp Guide </a>
-      
+
+
+### Step 2
+
+- **Look for good first issue label**
+    - The good first issue label is good for newcomers. Managers creating these issues with this label should be the easiest to work on.
+
+
+### Step 3
+
+- **For Advanced Contributors Use this Link**
+    - For contributors that are comfortable forking repos then you can use this <a href="https://github.com/firstcontributions/first-contributions" target="_blank"> link </a> as a reference.
 ---
