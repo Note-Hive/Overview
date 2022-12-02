@@ -36,7 +36,7 @@
 🔨🔨🔨 Contributing for Beginners Level
    1. Have three tabs opened in your browser.
    2. Duplicate the GitHub tab.
-   3. Click the html file you want to edit.
+   3. Click the .html file you want to edit.
    4. Hit the "." or dot button on your keyboard.
    5. It will direct you to a GitHub Development Environment.
    6. Edit the .html file you want to work on.
@@ -47,12 +47,12 @@
    2. Choose the look you want.
    3. Sync to and from other device by signing in with your GitHub account.		
    4. Click Extensions Icon on VS Code and install the following:
-   		- Azure Repos
-		- GitHub Pull Requests and Issues
-		- GitHub Repositories
-		- Live Server
-		- Live Share Extension  Pack
-		- Markdown Preview Enhanced
+   	- Azure Repos
+	- GitHub Pull Requests and Issues
+	- GitHub Repositories
+	- Live Server
+	- Live Share Extension  Pack
+	- Markdown Preview Enhanced
         - Remote Repositories
    
    6. From your GitHub tab on your internet browser find the URL to clone.
