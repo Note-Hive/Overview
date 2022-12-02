@@ -30,30 +30,40 @@
 
 
 ### Step 3
-- **Fork Repos**
+- **Fork the Repos**
+
+---
+
+### 🔨🔨🔨 Contributing for Beginners Level
+   1. Have two tabs opened in your browser.
+      - The Website
+      - GitHub
+      
+   3. Duplicate the GitHub tab.
+   4. Click the .html file you want to edit.
+   5. Hit the "." or dot button on your keyboard.
+   6. It will direct you to a GitHub Development Environment.
+   7. You should have three tabs opened in your browser.
+      - The Website
+      - GitHub
+      - GitHub Development Environment
+   	
+   8. Edit the .html file you want to work on.
+   9. Do pull request in the Source Control icon.
 
 
-🔨🔨🔨 Contributing for Beginners Level
-   1. Have three tabs opened in your browser.
-   2. Duplicate the GitHub tab.
-   3. Click the .html file you want to edit.
-   4. Hit the "." or dot button on your keyboard.
-   5. It will direct you to a GitHub Development Environment.
-   6. Edit the .html file you want to work on.
-   7. Do pull request in the Source Control icon.
-
-🔨🔨🔨 Contributing for Advanced Level
+### 🔨🔨🔨 Contributing for Advanced Level
    1. <a href="https://code.visualstudio.com/insiders/" target="_blank"> Download VS Code </a>.
    2. Choose the look you want.
    3. Sync to and from other device by signing in with your GitHub account.		
    4. Click Extensions Icon on VS Code and install the following:
-   	- Azure Repos
-	- GitHub Pull Requests and Issues
-	- GitHub Repositories
-	- Live Server
-	- Live Share Extension  Pack
-	- Markdown Preview Enhanced
-        - Remote Repositories
+      - Azure Repos
+      - GitHub Pull Requests and Issues
+      - GitHub Repositories
+      - Live Server
+      - Live Share Extension  Pack
+      - Markdown Preview Enhanced
+      - Remote Repositories
    
    6. From your GitHub tab on your internet browser find the URL to clone.
    7. Open a Terminal on VS Code.
