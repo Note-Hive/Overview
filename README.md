@@ -16,7 +16,7 @@
 ### Step 1
 
 - **Check Available Issues in the Different Repositories**
-    - Here are a few of the Issues area you can check out but do check other repositories,
+    - Here are a few of the Issues area you can check out but do check other <a href="https://github.com/orgs/Note-Hive/repositories" target="_blank"> repositories </a>,
       
       <a href="https://github.com/Note-Hive/Overview/issues" target="_blank"> Overview </a>
       
