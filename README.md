@@ -30,7 +30,41 @@
 
 
 ### Step 3
+- **Fork Repos**
 
-- **For Advanced Contributors Use this Link**
-    - For contributors that are comfortable forking repos then you can use this <a href="https://github.com/firstcontributions/first-contributions" target="_blank"> link </a> as a reference.
+
+🔨🔨🔨 Contributing for Beginners Level
+   1. Have three tabs opened in your browser.
+   2. Duplicate the GitHub tab.
+   3. Click the html file you want to edit.
+   4. Hit the "." or dot button on your keyboard.
+   5. It will direct you to a GitHub Development Environment.
+   6. Edit the .html file you want to work on.
+   7. Do pull request in the Source Control icon.
+
+🔨🔨🔨 Contributing for Advanced Level
+   1. <a href="https://code.visualstudio.com/insiders/" target="_blank"> Download VS Code </a>.
+   2. Choose the look you want.
+   3. Sync to and from other device by signing in with your GitHub account.		
+   4. Click Extensions Icon on VS Code and install the following:
+   		- Azure Repos
+		- GitHub Pull Requests and Issues
+		- GitHub Repositories
+		- Live Server
+		- Live Share Extension  Pack
+		- Markdown Preview Enhanced
+        - Remote Repositories
+   
+   6. From your GitHub tab on your internet browser find the URL to clone.
+   7. Open a Terminal on VS Code.
+   8. Clone the repository.
+   9. Click Allow.
+   10. Authorize VS Code.  It will redirect to VS Code.
+   11. It will give you few options of your Repos, select one repo.
+   12. Create a folder in Local Disk C named "Repo".
+   13. When doing commits, syncing should only take 5 seconds, so check your browser and authorize it.
+   
+   For more information, use this <a href="https://github.com/firstcontributions/first-contributions" target="_blank"> link </a> as a reference.
+
+    
 ---
