@@ -17,14 +17,23 @@
 > - [Where to find my USDT Wallet Address?](https://www.followchain.org/binance-wallet-address) 
 > - [Sample GitHub Profile with USDT Wallet](https://github.com/yennefer-m)
 
-### 1. Prepare Your Workspace
-- Close All Tabs and all other apps except this Guide to minimize distractions and confusion.
-- GitHub Issues Page
-- GitHub Code Browser
-- Website of Project
 
-### 2. **Find an Issues that Matches Your Interest**
-Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to find one suitable for your skills and interests on the newly opened tab. This chart below describes a few of our most common issue types:
+### 1. **Clear Your Workspace**
+1. Open a new tab to be used for research on your favorite Search Engine _(Tab 1)_
+2. Close All Other Tabs and all other Apps except this Guide _(Tab 2)_
+> __Note__ Make sure you learn the Ctrl-Click command when you click links. Ctrl-Click will be used throughout this guide.
+
+### 2. **Search for Open Issues**
+Look through the following Organization's Issues below by hitting (Ctrl-Click) on the link, based upon your area of interest.<br>
+- [Tao Fruit](https://github.com/search?l=&q=user%3Ataofruit&type=issues) - Graphics, Copywriting, &amp; Website Design Organization<br>
+- [Note Hive](https://github.com/search?l=&q=user%3ANote-Hive&type=issues) - Documentation, Grants, Guides, Handbooks, and other Writing Projects<br>
+- [United Home](https://github.com/search?l=&q=user%3AUnited-Home&type=issues) - Home, Lifestyle, and Architectural Projects<br>
+- [Tao Learning Institute](https://github.com/search?l=&q=user%3ATaoLearning&type=issues) - Non-Profit Organization focused on Learning & Development<br>
+- [INSTAR Lab Inc](https://github.com/search?l=&q=user%3AINSTARLab&type=issues) - Non-Profit Organization focused on Research & Development<br>
+
+### 3. **Find an Issue that Matches Your Interest**
+Continue browsing the Issues Tab _(Tab 3)_ to find an issue suitable for your skills and interests on the newly opened tab. 
+This chart below describes a few of our most common issue types:
 - $\color{orange}{media}$ $\color{orange}{content}$ - Visual and Audio Content including Graphics, Commercials, Sound Bytes, etc
 - $\color{BurntOrange}{content}$ $\color{BurntOrange}{writing}$ - Long Form Writing that engages, motivates, and potentially converts users to take action
 - $\color{yellow}{copywriting}$ - Short Form Writing text for advertising and marketing
@@ -32,28 +41,49 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
 - $\color{green}{help}$ $\color{green}{wanted}$ - Extra attention is needed - great for external contributors
 - $\color{lightblue}{documentation}$ - Improvements or additions to documentation
 
-### 3. **Understand the Issue**
-   In this phase, you will start browsing the website so you can get a good understanding of the issue you chose. This process is known as [Requirement Engineering](https://www.educba.com/requirement-engineering/) (RE). Here are a few common steps great engineers practice for really powerful RE.
-   1. Open the Website (Tab 4)
-   2. Browse around and make yourself comfortable
-   3. Tab Back-and-forth between the website & the issue
-   4. Open an extra tab to your favorite search engine to research the topic if you need further help.
-   5. If you have questions or need clarification, then write a comment in the issue.
-   6. You may also want to add your links you are researching in the comment section to help others who are working on this same issue.
+### 4. **Project Discovery**
+If the entire project has been put in motion well, then there will be a master Readme.md file explaining what this project is with proper links on it. Also, if the person who made the issue you chose tried really hard, then they will have supplied a lot of links and instructions right in the issue.  That is usually not the case.  Usually, you're going to have to try really hard to really understand what the issue is even referring to.  This means you will need to do **Project Discovery** to see if you will have fun and can even comprehend the issue you've chosen.  If it doesn't make sense, you can always comment and ask for clarification before you start an issue & ask the manager to communicate better.<br>
+To tackle Project Discovery yourself, do the following:
+   1. On the Issue Page, Ctrl-Click the `<> Code` Button in the upper-left area of the Issue you have chosen.
+   2. Right-Click the newly created GitHub Code Browser _(Tab 4)_
+   3. Choose "Duplicate Tab" which will make a new GitHub Code Browser _(Tab 5)_
+   4. If Possible, click the `master` Button and click on **gh-pages** in the selected options (Sometimes not available)
+   5. Search the Readme.md to find out the website link.
+   6. Either Ctrl-Click the Website link, or open a new tab and browse to it if it's not clickable. _(Tab 6)_
    
-### 4. **Start Making Changes**
-   1. Open the GitHub Code Browser (Tab 3)
+### 5. **Prepare Your Workspace**
+You should now have 6 Tabs total that hold together your entire workspace. Take a pause at this point to make sure you are organized with the following tabs:
+1. Search Engine
+2. This Guide
+3. GitHub Issues Page
+4. GitHub Code Browser
+5. GitHub Code Browser #2
+6. Website of Project
+
+### 6. **Understand the Issue**
+   Next, you will toggle between all the tabs above multiple times so you can get a good understanding of the issue you chose and interact with the issue until the issue is fully known and comprehensive. This process is known as [Requirement Engineering](https://www.educba.com/requirement-engineering/) (RE). Here are a few common steps great engineers practice for really powerful RE.
+   1. Open the Website _(Tab 4)_
+   2. Browse around and make yourself comfortable
+   3. Tab Back-and-forth between the website & the issue _(Tabs 3 & 6)_
+   4. Use the Search Engine to research the topic if you need further help. _(Tab 1)_
+   5. If you have questions or need clarification, then write a comment in the issue area _(Tab 3)_
+   6. You may also want to add your links you are researching in the comment section to help others who are working on this same issue. _(Tab 3)_
+   7. Repeat Steps 1-7 until you are extremely confident that you can move forward.
+   
+### 7. **Start Making Changes**
+We will now use a trick to convert Tab 5 to a new workspace.
+   1. Go to GitHub Code Browser #2 _(Tab 5)_
    2. Find the file you want to edit.
    3. Hit the "." dot button on your keyboard.
-      > __Note__ This will auotmatically open a GitHub Web Editor (GWE).
+      > __Note__ This will auotmatically convert this tab into a GitHub Web Editor (GWE).
    4. In the GWE, Continue editing the files you want to work on. 
    5. Refer back to the issue you chose periodically to see updates and to write comments as you feel necessary as you continue to make changes.
-      > __Warning__ You MUST continue to Step 5 within 2 hours, otherwise your updates might conflict with others who are working on this same issue!
+      > __Warning__ You MUST continue to Step 8 within 2 hours, otherwise your updates might conflict with others who are working on this same issue!
 
-### 5. **Save Your Changes**
-   1. Go to the Issue Area (Tab 2)
+### 8. **Save Your Changes**
+   1. Go to the GitHub Issue Page _(Tab 3)_
       - Keep Note of your Issue #. 
-   3. Go to the GWE Area (Tab 3)
+   3. Go to the GWE Area _(Tab 5)_
    4. Click on the Source Control Icon (or Press Ctrl-Shift-G)
    5. Type in a Short Summary in the Message field of What Changes You Made followed by Issue Number
       > `Example: _Updated Titles for Landing Page #82_`
@@ -76,8 +106,8 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
       > You will need to return to the main branch in lower-left of screen if you do change<br>
    
 
-### 6. Continue Editing
-   After You have Saved, Repeat Steps 1-5 to continue editing and making contributions.
+### 9. Continue Editing
+   After You have Saved, Repeat Steps 1-7 to continue editing and making contributions.
    
 ---
 
