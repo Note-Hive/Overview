@@ -62,7 +62,7 @@ You should now have 6 Tabs total that hold together your entire workspace. Take 
 
 ### 6. **Understand the Issue**
    Next, you will toggle between all the tabs above multiple times so you can get a good understanding of the issue you chose and interact with the issue until the issue is fully known and comprehensive. This process is known as [Requirement Engineering](https://www.educba.com/requirement-engineering/) (RE). Here are a few common steps great engineers practice for really powerful RE.
-   1. Open the Website _(Tab 4)_
+   1. Open the Website _(Tab 6)_
    2. Browse around and make yourself comfortable
    3. Tab Back-and-forth between the website & the issue _(Tabs 3 & 6)_
    4. Use the Search Engine to research the topic if you need further help. _(Tab 1)_
