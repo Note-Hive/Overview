@@ -14,7 +14,7 @@ Three areas to focus on, by priority:
 
 3. Make the Focus Grading app for the admission.
 
-4. AST Program Creation (needs confirmed).
+4. AST Program Creation (needs confirmed). Includes all those courses inside the BS, MS, and PhD Program.
 
 These guides are like creating a book. It will be like a semestral program. 
 
