@@ -8,7 +8,7 @@ For example, 4 hours of work will do 4 hours study with us. If they stayed for 4
 
 Three areas to focus on, by priority:
 
-1. [Hackney University](https://hackneyuniversity.org/) website.  It will be a .edu once accredited. 
+1. [Hackney University](https://hackneyuniversity.org/) website.  It will be a .edu once accredited. GitHub link: https://github.com/TaoFruit/hackneyuniversity/tree/gh-pages
 
 2. Create the curriculum guides.
 
@@ -16,6 +16,6 @@ Three areas to focus on, by priority:
 
 4. AST Program Creation (needs confirmed). Includes all those courses inside the BS, MS, and PhD Program.
 
-These guides are like creating a book. It will be like a semestral program. 
+These guides are like creating a book. It will be like a semestral program. Some contributors prefer their issues assigned to them.
 
 
