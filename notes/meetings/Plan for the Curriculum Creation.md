@@ -24,16 +24,28 @@ Questions?
 • If in GitHub, should there be a new repo that's named similar to the Guide? Or just use the existing repo?
 
 Tasks
+
 • Organize and rename all pages in OneNote accordingly that will follow the Spreadsheet (Hira)
+
 • Create the TOC
 	• Update the executives
 	• Research existing guides in the SharePoint area and company websites
+
 • Use the TOC for the category area in the spreadsheet
+
 • Make questions and descriptions according to the category on each page (tab)
+
 • Create GitHub repositories based on the guide if it's missing.
+
 • Suzanne create folder
+
 • Share the folder link
+
 • Create the Tasks
+
 • Share the tasks with the research markdown file
+
 • Update Important Links in this OneNote for reference
 	• Include the tracker which includes mostly all the companies
+
+[Branding Tracker](https://focushive.sharepoint.com/:x:/r/sites/CorporateHive/_layouts/15/Doc.aspx?sourcedoc=%7BE859A3B9-0EA1-497A-9027-51185AB438C3%7D&file=Branding%20Tracker.xlsx&action=default&mobileredirect=true) - the list might be incomplete but it shows the different affiliated companies and the link to their website. Focus on using the links and not on how the spreadsheet works. This can help in getting ideas for your content creation.
