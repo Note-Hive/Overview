@@ -8,12 +8,14 @@ For example, 4 hours of work will do 4 hours study with us. If they stayed for 4
 
 Three areas to focus on:
 
-1. Create the curriculum guides.
+1. [Hackney University](https://hackneyuniversity.org/) website.  It will be a .edu once accredited. 
 
-2. Groom the Hackney University website. It will be a .edu once accredited.
+2. Create the curriculum guides.
 
 3. Make the Focus Grading app for the admission.
 
+4. AST Program Creation (needs confirmed).
 
 These guides are like creating a book. It will be like a semestral program. 
+
 
